@@ -1,4 +1,5 @@
 require 'uri'
+puts 'Uhr-Test'
 require 'net/http'
 url = URI("http://services.sharkbyte.bplaced.net/Uhr/clock/raw.php")
 http = Net::HTTP.new(url.host, url.port)
