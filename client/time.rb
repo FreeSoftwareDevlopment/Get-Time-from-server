@@ -1,4 +1,3 @@
-puts "Uhr-Test"
 require 'uri'
 require 'net/http'
 url = URI("http://services.sharkbyte.bplaced.net/Uhr/clock/raw.php")
