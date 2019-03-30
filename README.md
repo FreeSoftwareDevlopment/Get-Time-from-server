@@ -1,1 +1,1 @@
-[![Codeship Status for FreeSoftwareDevlopment/Get-Time-from-server](https://app.codeship.com/projects/75a7ce80-34fc-0137-779c-120511eb18e1/status?branch=master)](https://app.codeship.com/projects/332758)
+[![Codeship Status for FreeSoftwareDevlopment/Get-Time-from-server](https://app.codeship.com/projects/75a7ce80-34fc-0137-779c-120511eb18e1/status?branch=master)](https://app.codeship.com/projects/332758)[![Travis CI](https://travis-ci.org/FreeSoftwareDevlopment/Get-Time-from-server.svg?branch=master)](https://travis-ci.org/FreeSoftwareDevlopment/Get-Time-from-server)
