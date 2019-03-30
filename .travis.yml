@@ -1,0 +1,10 @@
+language: ruby
+os: osx
+rvm:
+  - 2.2
+  - jruby
+  - truffleruby
+  - 2.0.0-p247
+script:
+  - cd ./client
+  - ruby test.rb
